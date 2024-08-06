@@ -1,0 +1,13 @@
+.bar {
+  width: 5px;
+  background-color: teal;
+  display: inline-block;
+  margin: 0 1px;
+}
+
+.array-container {
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  margin-top: 50px;
+}
